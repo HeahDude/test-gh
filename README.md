@@ -1,5 +1,5 @@
 # test-gh
-A dummy repo to test the Symfony gh tool
+A dummy repo to test the Symfony GH Tool.
 
 ## Dummy content
 
